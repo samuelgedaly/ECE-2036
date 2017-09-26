@@ -1,0 +1,127 @@
+Hello Lemur
+Hello SD Card World!
+You are CORRECT lemur!
+
+Trial number: 1
+
+Accuracy: 1.0
+
+Lemur time: 820.0
+Hello SD Card World!
+You are CORRECT lemur!
+
+Trial number: 2
+
+Accuracy: 1.0
+
+Lemur time: 1461.0
+Hello SD Card World!
+You are CORRECT lemur!
+
+Trial number: 3
+
+Accuracy: 1.0
+
+Lemur time: 1847.0
+Hello SD Card World!
+You are CORRECT lemur!
+
+Trial number: 4
+
+Accuracy: 1.0
+
+Lemur time: 1169.0
+Hello SD Card World!
+You are CORRECT lemur!
+
+Trial number: 5
+
+Accuracy: 1.0
+
+Lemur time: 1258.0
+Hello SD Card World!
+You are INCORRECT lemur... sorry
+
+Trial number: 6
+
+Accuracy: 0.8
+
+Lemur time: 1068.0
+Hello SD Card World!
+You are CORRECT lemur!
+
+Trial number: 7
+
+Accuracy: 0.9
+
+Lemur time: 953.0
+Hello SD Card World!
+You are CORRECT lemur!
+
+Trial number: 8
+
+Accuracy: 0.9
+
+Lemur time: 1568.0
+Hello SD Card World!
+You are CORRECT lemur!
+
+Trial number: 9
+
+Accuracy: 0.9
+
+Lemur time: 1560.0
+Hello SD Card World!
+You are CORRECT lemur!
+
+Trial number: 10
+
+Accuracy: 0.9
+
+Lemur time: 1248.0
+Hello SD Card World!
+You are CORRECT lemur!
+
+Trial number: 11
+
+Accuracy: 0.9
+
+Lemur time: 1271.0
+Hello SD Card World!
+You are CORRECT lemur!
+
+Trial number: 12
+
+Accuracy: 0.9
+
+Lemur time: 1108.0
+Hello SD Card World!
+You are CORRECT lemur!
+
+Trial number: 13
+
+Accuracy: 0.9
+
+Lemur time: 989.0
+Hello SD Card World!
+You are CORRECT lemur!
+
+Trial number: 14
+
+Accuracy: 0.9
+
+Lemur time: 1023.0
+Hello SD Card World!
+You are CORRECT lemur!
+
+Trial number: 15
+
+Accuracy: 0.9
+
+Lemur time: 559.0
+Hello SD Card World!
+You are CORRECT lemur!
+
+Trial number: 16
+
+Accuracy:
